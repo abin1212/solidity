@@ -19,4 +19,4 @@ contract ArithmeticOperations {
         require(b > 0, "Division by zero is not allowed.");
         return a / b;
     }
-
+}
